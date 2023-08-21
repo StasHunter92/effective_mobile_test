@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "last_name": "Мещеряков",
+    "first_name": "Станислав",
+    "patronymic": "Андреевич",
+    "organization": "ООО Опора",
+    "organization_phone_number": "311-04-21",
+    "phone_number": "+7(543)460-41-62"
+  },
+  {
+    "id": 2,
+    "last_name": "Родионов",
+    "first_name": "Михаил",
+    "patronymic": "Юрьевич",
+    "organization": "ООО Опора",
+    "organization_phone_number": "311-04-21",
+    "phone_number": "+7(9874)612-82-56"
+  },
+  {
+    "id": 3,
+    "last_name": "Лебедев",
+    "first_name": "Михаил",
+    "patronymic": "Александрович",
+    "organization": "АО Ретай",
+    "organization_phone_number": "873-03-25",
+    "phone_number": "+7(19)562-10-55"
+  },
+  {
+    "id": 4,
+    "last_name": "Петров",
+    "first_name": "Петр",
+    "patronymic": "Прохоров",
+    "organization": "АО Ретай",
+    "organization_phone_number": "873-03-25",
+    "phone_number": "+7(250)123-11-05"
+  },
+  {
+    "id": 5,
+    "last_name": "Петухов",
+    "first_name": "Михаил",
+    "patronymic": "Артёмович",
+    "organization": "АО Ретай",
+    "organization_phone_number": "873-03-25",
+    "phone_number": "+7(778)943-15-38"
+  },
+  {
+    "id": 6,
+    "last_name": "Еремин",
+    "first_name": "Андрей",
+    "patronymic": "Алексеевич",
+    "organization": "",
+    "organization_phone_number": "",
+    "phone_number": "+7(497)082-65-95"
+  },
+  {
+    "id": 7,
+    "last_name": "Климова",
+    "first_name": "Александра",
+    "patronymic": "Олеговна",
+    "organization": "",
+    "organization_phone_number": "",
+    "phone_number": "+7(431)262-16-82"
+  },
+  {
+    "id": 8,
+    "last_name": "Михайлов",
+    "first_name": "Даниил",
+    "patronymic": "Глебович",
+    "organization": "",
+    "organization_phone_number": "",
+    "phone_number": "+7(291)182-39-94"
+  },
+  {
+    "id": 9,
+    "last_name": "Николаев",
+    "first_name": "Никита",
+    "patronymic": "Сергеевич",
+    "organization": "",
+    "organization_phone_number": "",
+    "phone_number": "+7(5561)243-71-39"
+  },
+  {
+    "id": 10,
+    "last_name": "Козлов",
+    "first_name": "Сергей",
+    "patronymic": "Алексеевич",
+    "organization": "",
+    "organization_phone_number": "",
+    "phone_number": "+7(11)280-57-29"
+  },
+  {
+    "id": 11,
+    "last_name": "Петров",
+    "first_name": "Егор",
+    "patronymic": "Михайлович",
+    "organization": "",
+    "organization_phone_number": "",
+    "phone_number": "+7(0220)787-25-94"
+  },
+  {
+    "id": 12,
+    "last_name": "Смирнова",
+    "first_name": "Алиса",
+    "patronymic": "Александровна",
+    "organization": "ООО Опора",
+    "organization_phone_number": "311-04-21",
+    "phone_number": "+7(4755)472-62-55"
+  },
+  {
+    "id": 13,
+    "last_name": "Кравцов",
+    "first_name": "Антон",
+    "patronymic": "Ильич",
+    "organization": "",
+    "organization_phone_number": "",
+    "phone_number": "+7(036)272-57-42"
+  },
+  {
+    "id": 14,
+    "last_name": "Воробьева",
+    "first_name": "Дарья",
+    "patronymic": "Дмитриевна",
+    "organization": "",
+    "organization_phone_number": "",
+    "phone_number": "+7(1520)057-60-81"
+  },
+  {
+    "id": 15,
+    "last_name": "Тихомиров",
+    "first_name": "Максим",
+    "patronymic": "Артёмович",
+    "organization": "ООО Опора",
+    "organization_phone_number": "311-04-21",
+    "phone_number": "+7(1716)576-17-89"
+  }
+]

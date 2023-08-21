@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "effective-mobile-test"
+version = "0.1.0"
+description = "Phone book application"
+authors = ["Stanislav Meshcheriakov"]
+readme = "README.md"
+packages = [{include = "effective_mobile_test"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydantic = "^2.2.1"
+prettytable = "^3.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
